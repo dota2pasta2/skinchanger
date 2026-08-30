@@ -1,5 +1,7 @@
 # skinchanger
 
+СТАТУС: РАБОТАЕТ
+
 скачать: https://mega.nz/file/USEQQIZZ#PjemCkDnCmoVxQWVDOsnUEvugqF65O_T4FNfFM-dsNg
 
 1) инжектить, когда в главном меню доты "injector.exe" и подождать 15 секунд (ничего не делать, оставаться в главном меню), пока шмотки добавятся в инвентарь;
