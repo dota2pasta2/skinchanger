@@ -1,4 +1,4 @@
-# skinchanger
+# skinchanger dota 2
 
 СТАТУС: РАБОТАЕТ
 
