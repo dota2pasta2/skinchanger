@@ -1,6 +1,6 @@
 # skinchanger dota 2
 
-СТАТУС: РАБОТАЕТ
+СТАТУС: НЕ РАБОТАЕТ
 
 скачать: https://mega.nz/file/USEQQIZZ#PjemCkDnCmoVxQWVDOsnUEvugqF65O_T4FNfFM-dsNg
 
